@@ -1,3 +1,12 @@
+## 起動方法
+
+```
+## In Terminal
+python -m SimpleHTTPServer
+## Access
+http://localhost:8000/?site=50796090&lptag=true
+```
+
 LivePerson JS Chat SDK - Demo App
 =================================
 
